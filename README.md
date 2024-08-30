@@ -63,3 +63,10 @@ import time
 ## Experience ##
 
 Initially thought it was a tough project but it was managable and also a fun one
+
+## Here's a example video ##
+
+
+https://github.com/user-attachments/assets/8ec36d39-220f-4a99-bcf3-f5be49b7e10f
+
+
